@@ -9,9 +9,9 @@ The avg of three numbers is= 40.666666666666664
 enter your gross income in dollars:43000.00
 Enter total dependents:2
 your income tax is: 5400.0
-enter your SID;21103069
+enter your SID;21104062
 enter your Name:Varun
 enter your gender(M,F,U for unknown):M
-enter course name:Computer Science
+enter course name:shivam dhiman
 enter CGPA:8.00
-[21103069, 'Varun', 'M', 'Computer Science', 8.0]
+[21104062, 'shivam', 'M', 'electrical engineering', 8.0]
