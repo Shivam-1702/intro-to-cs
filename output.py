@@ -10,7 +10,7 @@ enter your gross income in dollars:43000.00
 Enter total dependents:2
 your income tax is: 5400.0
 enter your SID;21104062
-enter your Name:Varun
+enter your Name:Shivam
 enter your gender(M,F,U for unknown):M
 enter course name:shivam dhiman
 enter CGPA:8.00
