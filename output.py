@@ -12,6 +12,6 @@ your income tax is: 5400.0
 enter your SID;21104062
 enter your Name:Shivam
 enter your gender(M,F,U for unknown):M
-enter course name:shivam dhiman
+enter course name:electrical engineering
 enter CGPA:8.00
 [21104062, 'shivam', 'M', 'electrical engineering', 8.0]
