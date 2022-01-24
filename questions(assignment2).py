@@ -1,12 +1,4 @@
-
-'''HELLO GUYS TO THE PROGRAM
-   EVERY PROGRAM ARE MADE INTO FUNCTIONS AND CALLED LATER ON IN FORM OF
-    OPTIONS!!!
-    THANKS FOR THE ASSIGNMENT, I LEARNT A LOT BY DOING THESE!!
-
-
-
-    Program by CHAITANYA KANHAR CSE 21103127
+ Program by Shivam dhiman EE 21104062
     '''
 
 
@@ -132,7 +124,7 @@ def q6():
 
 def choice():     
     try:
-        print("Program by CHAITANYA KANHAR CSE 21103127")
+        print("Program by Shivam dhiman EE 21104062")
         print("WELCOME to the program %s.\n Hope it will help"%(inject))
         print("Choose the question want to visit: input are set as (1,2,3,4,5,6)!!")   
         inpchoice=input("Enter your choice here: ")
