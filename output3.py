@@ -1,7 +1,7 @@
 Windows PowerShell
 Copyright (C) 2016 Microsoft Corporation. All rights reserved.
 
-PS C:\Users\mypc\Documents\vs first> python -u "c:\Users\mypc\Documents\vs first\assign03.py"
+PS C:\Users\mypc\Documents\vs first> python -u "c:\Users\mypc\Documents\vs first\questions(assignments3).py"
 Give a string:thisisarandomstring
 {'t': 2, 'h': 1, 'i': 3, 's': 3, 'a': 2, 'r': 2, 'n': 2, 'd': 1, 'o': 1, 'm': 1, 'g': 1}
 Ques 1 Done
@@ -24,8 +24,8 @@ Ques 4 Done
      ABC
       A
 Ques 5 Done
-Enter Name:varun
-Enter Sid:12
+Enter Name:shivam
+Enter Sid:62
 Give Y to enter more sids in dictionary :Y
 Enter Name:xyz
 Enter Sid:10
@@ -36,12 +36,12 @@ Give Y to enter more sids in dictionary :Y
 Enter Name:imok
 Enter Sid:34
 Give Y to enter more sids in dictionary :n
-{12: 'varun', 10: 'xyz', 90: 'uvw', 34: 'imok'}
-{34: 'imok', 90: 'uvw', 12: 'varun', 10: 'xyz'}
-[(10, 'xyz'), (12, 'varun'), (34, 'imok'), (90, 'uvw')]
-Enter the SID : 12
+{12: 'shivam', 10: 'xyz', 90: 'uvw', 34: 'imok'}
+{34: 'imok', 90: 'uvw', 12: 'shivam', 10: 'xyz'}
+[(10, 'xyz'), (12, 'shivam'), (34, 'imok'), (90, 'uvw')]
+Enter the SID : 62
 The student with entered SID is
-varun
+shivam
 Ques 6 Done
 Give a number-0
 Give a number-1
