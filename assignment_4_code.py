@@ -122,7 +122,7 @@ class Student:
     def __del__(self):
         print("Object has been destroyed")
 
-obj_1=Student("Varun",21103069)
+obj_1=Student("shivam",21104062)
 print(obj_1.name)
 print(obj_1.rollnumber)
 print("Done")
@@ -137,22 +137,22 @@ class EmployeeDetails:
     def func(self):
         print("Name of employee is:",self.name,"and salary is:",self.salary)
 
-Emp_1=EmployeeDetails("Mehak",40000)
-Emp_2=EmployeeDetails("Ashok",50000)
-Emp_3=EmployeeDetails("Viren",60000)
+Emp_1=EmployeeDetails("halie",40000)
+Emp_2=EmployeeDetails("john",50000)
+Emp_3=EmployeeDetails("judy",60000)
 Emp_1.func()
 Emp_2.func()
 Emp_3.func()
 
 print("part(a)")
-#updating salary of Mehak
+#updating salary of halie
 Emp_1.salary=70000
-print("The updated salary of Mehak is:",Emp_1.salary)
+print("The updated salary of halie is:",Emp_1.salary)
 
 print("part(b)")
-#deleting the record of Viren
+#deleting the record of judy
 del Emp_3
-print("The record of Viren has been successfully deleted")
+print("The record of judy has been successfully deleted")
 print("Done")
 
 
