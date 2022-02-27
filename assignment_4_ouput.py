@@ -56,17 +56,17 @@ The required max value is: 0
 The required hash value is: 0
 Done
 ques-4
-Varun
-21103069
+shivam
+21104062
 Done
 ques-5
-Name of employee is: Mehak and salary is: 40000
-Name of employee is: Ashok and salary is: 50000
-Name of employee is: Viren and salary is: 60000
+Name of employee is: halie and salary is: 40000
+Name of employee is: john and salary is: 50000
+Name of employee is: judy and salary is: 60000
 part(a)
-The updated salary of Mehak is: 70000
+The updated salary of halie is: 70000
 part(b)
-The record of Viren has been successfully deleted
+The record of judy has been successfully deleted
 Done
 ques-6
 Enter the word by George:love
